@@ -3,6 +3,19 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
+    
+}
+body{
+    background-color: #45d0ab;
+}
+ body .heading{
+    position: ;
+    /* margin-left: 40%;  */
+    margin-top: 5%;
+    
+    font-size: 30px;
+    font-weight: 200;
+    text-align: center;
 }
 .card{
     width: 90%;
